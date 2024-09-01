@@ -1,6 +1,8 @@
 # Introduction to Machine Learning with Python
 This repository documents my progress and projects in the NTU/TRAIN IMLP course. Here, I delve into the comprehensive and structured study of machine learning with Python.
 
+[Course Link](https://train.csie.ntu.edu.tw/train/course.php?id=3689)
+
 ## Course Content Overview
 This course has equipped me with both theoretical knowledge and practical skills in various aspects of machine learning. Below is a breakdown of the key modules covered:
 
